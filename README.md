@@ -32,17 +32,6 @@ Edvam S. Update NoVnc 2018/2022
 * **Languages Installed :** 
     * [![C](https://img.shields.io/static/v1?label=C&message=%20&logo=c)]() [![C++](https://img.shields.io/static/v1?label=C%2b%2b&message=%20&logo=c%2b%2b&logoColor=1e90ff&color=1e90ff)]() [![C Sharp](https://img.shields.io/static/v1?label=C%23&message=%20&logo=c-sharp&logoColor=green&color=green)]() [![Clojure](https://img.shields.io/static/v1?label=Clojure&message=%20&logo=clojure&logoColor=brightgreen&color=brightgreen)]() [![Go](https://img.shields.io/static/v1?label=Go&message=%20&logo=go&logoColor=1e90ff&color=1e90ff)]() [![Java](https://img.shields.io/static/v1?label=Java&message=%20&logo=java&logoColor=f89820&color=f89820)]() [![Lua](https://img.shields.io/static/v1?label=Lua&message=%20&color=blueviolet&logo=lua&logoColor=9638E7)]() [![R](https://img.shields.io/static/v1?label=R&message=%20&logo=r&logoColor=blue&color=blue)]()  [![Ruby](https://img.shields.io/static/v1?label=Ruby&message=%20&logo=ruby&logoColor=9b111e&color=9b111e)]() [![Perl](https://img.shields.io/static/v1?label=Perl&message=%20&logo=perl&logoColor=cc99ff&color=cc99ff)]() [![Python](https://img.shields.io/static/v1?label=Python&message=%20&logo=python&color=blue)]()
 
-## **Follow Me:**
- * **subscribe Youtube :**
- [![subscribe](https://img.shields.io/youtube/channel/subscribers/UCpDSqRYuSqE1HEeTsZfk5kQ?style=social)](https://youtube.com/channel/subscribers/UCpDSqRYuSqE1HEeTsZfk5kQ)
- * **Fork This Project :**
- [![fork](https://img.shields.io/github/forks/fsteamID/fsteamOS?style=social)](https://github.com/fsteamID)
- * **Stars This Project :**
- [![fork](https://img.shields.io/github/stars/fsteamID/fsteamOS?style=social)](https://github.com/fsteamID)
- * **Follow me on github :**
- [![fork](https://img.shields.io/github/followers/fsteamID?style=social)](https://github.com/fsteamID)
-* Dont Forget fork, follow & stars this project :
-
 ## **Screenshots :**
 <div>
   <details open>
