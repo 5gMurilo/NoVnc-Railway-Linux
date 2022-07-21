@@ -1,5 +1,5 @@
-#FSTeamOS 
-fully lightweight cloud linux desktop using fluxbox & NoVNC
+#NoVNC
+Edvam S. Update No Vnc 2018/2022
 
 
 ### **[ ! ] Using VNC/Remote Desktops are strictly prohibited/banned on many free PaaS platforms.<br>[ ! ] Deploy/Use at your own risk & responsibility!**
