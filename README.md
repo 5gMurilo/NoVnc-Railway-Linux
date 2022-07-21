@@ -1,9 +1,12 @@
 #NoVNC
 Edvam S. Update NoVnc 2018/2022
 
+## **PRIVATE VIRTUAL MACHINE (NoVNC)
+## **MAQUINA VIRTUAL PRIVADA (NoVNC)
 
 ### **[ ! ] Using VNC/Remote Desktops are strictly prohibited/banned on many free PaaS platforms.<br>[ ! ] Deploy/Use at your own risk & responsibility!**
 
+### **[ ! ] O uso de desktops remotos/VNC é estritamente proibido/banido em muitas plataformas PaaS gratuitas.<br>[ ! ] Implante/Use por sua conta e risco!**
 
 ## **Table of Contents :**
   * [**Packages**](#packages-)
