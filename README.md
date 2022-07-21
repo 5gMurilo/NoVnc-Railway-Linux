@@ -1,5 +1,5 @@
 #NoVNC
-Edvam S. Update No Vnc 2018/2022
+Edvam S. Update NoVnc 2018/2022
 
 
 ### **[ ! ] Using VNC/Remote Desktops are strictly prohibited/banned on many free PaaS platforms.<br>[ ! ] Deploy/Use at your own risk & responsibility!**
@@ -101,5 +101,5 @@ Edvam S. Update No Vnc 2018/2022
    
    ```
    
-#THx 
+#EdvamSantos 
   
