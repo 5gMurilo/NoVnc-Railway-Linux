@@ -7,7 +7,6 @@ Edvam S. Update NoVnc 2018/2022
 
 ## **Table of Contents :**
   * [**Packages**](#packages-)
-  * [**Follow Me**](#follow-me-)
   * [**Screenshots**](#screenshots-)
   * [**Environment Variables**](#environment-variables-)
   * [**Installation**](#installation-)
